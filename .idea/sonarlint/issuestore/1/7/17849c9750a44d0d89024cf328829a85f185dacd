@@ -1,0 +1,7 @@
+
+>
+java:S1148J"#Use a logger to log this exception.(·Ίπώÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(¤¦τ¨ωÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(άπϊ€όÿÿÿÿ
+_
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(Υ‰Έϋÿÿÿÿ

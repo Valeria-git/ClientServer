@@ -1,0 +1,13 @@
+
+@
+java:S1148F"#Use a logger to log this exception.(ÃñÌ8Èˆ®…Ì.
+_
+java:S2259<"BA "NullPointerException" could be thrown; "sois" is nullable here.(ö¿Ÿ8Èˆ®…Ì.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıÖç
+_
+java:S2259>"BA "NullPointerException" could be thrown; "soos" is nullable here.(‚å“ò8Èˆ®…Ì.
+E	java:S1086")Either remove or fill this block of code.(”ı¾8Èˆ®…Ì.
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Èˆ®…Ì.
+g
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(æâ¦æ8Èˆ®…Ì.
